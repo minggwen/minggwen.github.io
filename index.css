@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic:400,700,800&display=swap');
+.body{
+    font-family: 'Nanum Gothic';
+}
 .content-box-text-title {
 
     font-weight: bold;
@@ -43,5 +47,5 @@
     text-align: center;
  }
  body{
-    background-color: #FFFFFA
+    background-color: #FCFCFA
  }
